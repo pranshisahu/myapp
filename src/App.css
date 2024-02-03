@@ -1,7 +1,22 @@
 .App {
   text-align: center;
+  height: 100vh;
+  background-color: blue;
+  box-shadow:2px 2px 2px 2px rgb(175, 28, 28);
+  border :1px solid black;
 }
 
+h2{
+  font-size: 30px;
+  color: white;
+}
+.form-label{
+  color: white;
+
+}
+.list-group{
+  color: white;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
